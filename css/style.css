@@ -1,0 +1,58 @@
+/* Form */
+.ba-form {
+	padding: 10px 10px 50px 10px;
+	background-image:url(../img/title-bg.jpg);
+	background-size:cover;
+	color: #fff;
+}
+
+.ba-shoptitle {
+	padding: 20px;
+	color: #fff;
+}
+.ba-button {
+	margin-top: 100px;
+}
+.ba-titles {
+	background: #222;
+	border-radius:10%;
+	padding: 5px;
+	opacity: .8;
+	margin-top: 10px;
+}
+
+.ba-errors {
+	background: #222;
+	border-radius:10px;
+	padding: 5px;
+	opacity: .8;
+	margin-top: 10px;
+	color: red;
+}
+
+/* Contactform */
+.ba-contactform {
+	background: #F7F7F7;
+}
+/* CheckOrder */
+.ba-orderfeedback{
+	padding: 20px 10px 400px 10px;
+	padding-top: 30px;
+	background-image:url(../img/feedback-bg.jpg);
+	background-size:cover;
+	color: #FFF;
+}
+
+.ba-order {
+	color:red;
+	margin-top: 150px;
+}
+.ba-item {
+	color: #fff;
+}
+.ba-delivery {
+	color: #fff;
+}
+.form-control {
+	opacity: .85;
+}
